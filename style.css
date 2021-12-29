@@ -1,0 +1,66 @@
+#window {
+    margin-left: 25%;
+    background-color: black;
+    margin-top: 70px;
+    padding: 14px;
+    border-radius: 17px;
+    box-shadow: 0 0 20px;
+}
+
+.swapbox_select {
+
+    color: white;
+    width: 50%;
+    float: left;
+}
+
+#word {
+
+    color:white;
+}
+
+.swapbox {
+    overflow: auto;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #2f2f2f;
+    border-radius: 20px;
+    border: 1pxsolid #565656;
+}
+.token_select{
+    padding: 5px 0;
+    
+}
+
+.token_select:hover{
+    background-color: #255a3d;
+    cursor:pointer;
+}
+
+.token_list_image {
+    width: 40px;
+}
+img{
+    width:40px;
+}
+
+.modal-body {
+    height: 600px;
+    overflow: scroll;
+}
+
+.token_row{
+    padding: 5px 10px;
+}
+
+.token_row:hover{
+    background-color: #e4e4e4;
+    cursor: pointer;
+}
+
+#estimated_gas_text{
+    color: white;
+}
+#estimated_gas{
+    color: white;
+}
